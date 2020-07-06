@@ -1,4 +1,4 @@
-# WWIRN
+# WWIRN @ https://wwirn.glitch.me
 When Will It Rain Next? (WWIRN) is a web application that tells the user when it will rain next using geolocation 
 ## prerequisities
 1. This application runs off JavaScript (i.e. supported by most browsers)

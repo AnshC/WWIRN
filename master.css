@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(rgb(0, 247, 255) , rgb(0, 60, 255)) ;
+    font-family: Varela Round;
+    font-size: 50px;
+    color: white;
+}
+.root{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+#tz{
+    font-size: 70px;
+}
+#credits{
+    font-size: 20px;
+}
+a.dev{
+    text-decoration: none;
+    color: chartreuse;
+}
+a.provider{
+    text-decoration: none;
+    color: rgb(253, 108, 241);
+}
